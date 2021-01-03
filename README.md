@@ -9,7 +9,7 @@ Getting Started
 ---------------
 
 1. Install [homebrew](http://brew.sh/) with the command from the site
-2. `brew install pyenv`
+2. `brew install pyenv zlib bzip2`(`zlib` and `bzip2` required for installing `python` w/ `pyenv`)
 3. `pyenv install <latest_python_version>` (Check playbook up to date)
 4. Make sure pyenv's python on path (it will be after my shell settings are in place from playbook)
 5. `python -m venv venv`
