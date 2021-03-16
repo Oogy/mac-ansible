@@ -1,0 +1,86 @@
+homebrew_packages:
+- coreutils
+- d12frosted/emacs-plus/emacs-plus@27
+- exiftool
+- fd
+- fdupes
+- git
+- github/gh/gh
+- glances
+- go
+- gpg
+- helm
+- htop
+- inetutils
+- jhead
+- jpeg
+- jpegoptim
+- jq
+- k9s
+- kubectl
+- lastpass-cli
+- node
+- p7zip
+- packer
+- pwgen
+- pyenv
+- pypy
+- python
+- ripgrep
+- rsync
+- s3cmd
+- terraform
+- tmux
+- tree
+- neovim
+- watch
+- wget
+- xz
+- yarn
+- zlib
+- zsh-completions
+- nmap
+
+homebrew_cask_packages:
+- anaconda
+- discord
+- docker
+- homebrew/cask-fonts/font-ubuntu-mono-nerd-font
+- homebrew/cask-fonts/font-source-code-pro
+- google-chrome
+- iterm2
+- istat-menus
+- karabiner-elements
+- mattermost
+- qutebrowser
+- steamcmd
+- vagrant
+- vlc
+
+pyenv_python_versions:
+# In precedence order
+- 3.9.0
+
+pip_packages:
+- awscli
+- boto
+- boto3
+- csvkit
+- ec2-ssh
+- flake8
+- httpie
+- ipdb
+- ipython
+- lifelogger
+- pipenv
+- pygments
+- pythonpy
+- python-language-server
+- pyyaml
+- requests
+- s3cmd
+- six
+- tox
+- twine
+- youtube-dl
+- wheel
